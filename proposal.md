@@ -6,10 +6,10 @@
 
 Dota 2 is a famous multiplayer online video game and one of the core Esport disciplines.
 While the gameplay is too complicated to be described in this project, following information should be sufficient:
-1) There are two teams of 5 players competing in the match. Each team protect their base either in bottom-left corner of the map (Radiant side), or in top-right corner (Dire side). Game ends when the main building of any side falls, therefore draw is not possible.
-2) In the beginning of the match there's an important phase called "pick", in which players, or team captains, can select so-called "heroes". Hero is a player in-game character, each having unique stats and abilities. 
-3) For public matches, a side of a player, as well as hero pick order, is decided by random in the start of the match.
-4) For Pro-tournament matches, the side is decided by a coin flip. Winner of the flip can choose either pick order or a side of their team. Usually team choose to pick first, leaving the choice of the side to the other team, so this other team can adapt in their pick of the side.
+1) There are two teams of 5 players competing in the match. Each team protects their base either in bottom-left corner of the map (Radiant side), or in top-right corner (Dire side). Game ends when the main building of any side falls, therefore draw is not possible.
+2) In the beginning of the match there's an important phase called "pick", in which players, or team captains, can select so-called "heroes". Hero is a player's in-game character, each having unique stats and abilities. 
+3) For public matches, a side of a player, as well as hero pick order, is decided by random at the start of the match.
+4) For Pro-tournament matches, the side is decided by a coin flip. Winner of the flip can choose either pick order or a side of their team. Usually teams choose to pick first, leaving the choice of the side to the other team, so this other team is able to adapt in their pick of the side.
 
 From points 3 & 4 a conclusion can be drawn, that for a public match there could be a situation when one team gets both advantageous pick order and side, when for a pro-game that is not possible.
 
