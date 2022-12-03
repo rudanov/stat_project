@@ -83,4 +83,6 @@ Allows to run any custom SQL queries over the database
 
 
 ## What questions and/or concerns do you have about your project?
-For a long time there's a consensus in the community, that Radiant side has an advantage. I am about to find out if that's true, was it ever true, and if there was a moment when it stopped being true.
+For a long time there's a consensus in the community, that Radiant side has an advantage. 
+I am about to find out if that's true, was it ever true, and if there was a moment when it stopped being true.
+Additionally, the main question can be answered for different in-game skill groups, to find out if the effect is more noticeable in low-level or high-level matches. 
